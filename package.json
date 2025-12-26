@@ -1,0 +1,20 @@
+{
+  "name": "appbehavior-tracker",
+  "version": "3.0.1",
+  "description": "Tool for analyzing application behaviors and tracking mechanisms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["tracking", "privacy", "analysis"],
+  "author": "Applied Science Research Institute",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
+
